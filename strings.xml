@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name" translatable="false">tic toc toe</string>
+<string name="welcome_to_tic_tac_toe" translatable="false">Welcome to tic tac toe</string>
+<string name="tictactoe" translatable="false">our main grid</string>
+<string name="tic_tac_toe" translatable="false">grid</string>
+<string name="tic_tac_toe_letter_o" translatable="false">o</string>
+<string name="tic_tac_toe_x" translatable="false">x</string>
+<string name="todo" translatable="false">todo</string>
+<string name="x_turn_tap_to_play" translatable="false">x turn: tap to play</string>
+
+</resources>
